@@ -9,3 +9,8 @@ weibo_username: haofp    # 你的微博账号，底部链接会自动更新的�
 
 # Build settings
 # paginate: 10              # 一页你准备放几篇文章
+
+# Sidebar settings
+sidebar: true                            #添加侧边栏
+sidebar-about-description: "我的描述"
+#sidebar-avatar: /img/avatar-Jack.jpg     #你的大头贴，请使用绝对地址.
