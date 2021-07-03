@@ -1,4 +1,5 @@
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-cayman
 # Site settings
 title: haofp                # 你的博客网站标题
 SEOTitle: My Blog           # 在后面会详细谈到
